@@ -1,1 +1,5 @@
-This file can create anything, be anything
+#comment
+
+def count:
+  def __init__(self):
+  
